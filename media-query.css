@@ -1,0 +1,19 @@
+div{
+    background-color: lightblue;
+}
+
+
+@media only screen and (max-width:320px) {
+    div {
+        background-color: black;
+        
+    }
+    
+}
+@media only screen and (max-width:768px) {
+    div {
+        background-color: pink;
+        
+    }
+    
+}
